@@ -13,6 +13,7 @@ module.exports = [
         children: [
             '/senior-js/jquery/3',
             '/senior-js/jquery/4',
+            '/senior-js/jquery/5',
         ]
     },
 ]
