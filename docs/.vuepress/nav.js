@@ -2,7 +2,7 @@ module.exports = [
     {
         text: 'JavaScript进阶',
         items: [
-          {text: '框架的设计 jQuery源码分析', link: '/senior-js/jquery/'},
+          {text: '框架的设计 jQuery源码分析', link: '/senior-js/jquery/1.html'},
           {text: '函数式编程 Underscore源码分析', link: '/senior-js/underscore/'},
           {text: '模块化编程 自研模块加载器', link: '/senior-js/module/'},
         ]
